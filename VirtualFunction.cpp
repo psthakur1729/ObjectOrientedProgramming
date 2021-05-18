@@ -1,5 +1,8 @@
 #include <iostream>
-using namespace std;
+
+using std::cout;
+using std::endl;
+using std::string;
 
 /*C++ Virtual functions are functions defined in the base class and redefined 
 in the derived class, whose main purpose is achieving runtime-polymorphism. 

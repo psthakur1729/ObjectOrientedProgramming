@@ -1,7 +1,10 @@
 #include <iostream>
 #include <vector>
 
-using namespace std;
+using std::cout;
+using std::endl;
+using std::string;
+using std::vector;
 //keep the code DRY-dont repeat yourself
 class YoutubeChannel
 {

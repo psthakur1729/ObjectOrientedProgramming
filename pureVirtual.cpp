@@ -1,5 +1,8 @@
 #include <iostream>
-using namespace std;
+
+using std::cout;
+using std::endl;
+using std::string;
 
 /*Abstract class in C++ is a class that has at least one pure virtual function. 
 The classes which inherit the abstract class must provide a definition for the pure 

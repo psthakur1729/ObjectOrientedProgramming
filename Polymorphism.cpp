@@ -1,7 +1,10 @@
 #include <iostream>
 #include <list>
-using namespace std;
-
+using std::cin;
+using std::cout;
+using std::endl;
+using std::list;
+using std::string;
 /*The word "polymorphism" means to have many forms.
 Polymorphism usually occurs when we have multiple classes that are
  related by inheritance. Because of this, two derived classes can 
